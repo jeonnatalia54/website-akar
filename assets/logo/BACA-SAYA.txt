@@ -1,0 +1,3 @@
+logo.png         logo warna hijau (latar terang: sidebar, login, bar atas)
+logo-putih.png   logo putih (latar gelap: splash, footer)
+Untuk mengganti logo, timpa kedua file ini dengan nama yang sama.
